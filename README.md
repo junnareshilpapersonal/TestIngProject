@@ -3,4 +3,4 @@
 TestGitCommands
 
 <P> hello all please add the files correctly </P>
-Author-Shilpa Junnare
+Author-Shilpa Junnare & SpurqLabs
